@@ -1,2 +1,4 @@
 train/
 test_A/
+__pycache__
+.vscode
