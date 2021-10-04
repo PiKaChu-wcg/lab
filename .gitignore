@@ -2,3 +2,5 @@ train/
 test_A/
 __pycache__
 .vscode
+*.jpg
+*.png

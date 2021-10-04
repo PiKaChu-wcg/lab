@@ -10,7 +10,7 @@ FilePath     : /wcg/CCF_BDCI/血管瘤超声图像分割/data/dataset.py
 from torchvision import transforms
 from torch.utils.data import Dataset
 import pandas as pd
-from rle2mask import rle_decode
+from .rle2mask import rle_decode
 from PIL import Image
 import os
 
